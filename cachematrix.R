@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Starting to make funtions that caches the inverse matrix of givne one - Young
 
 makeCacheMatrix <- function(x = matrix()) {
 
