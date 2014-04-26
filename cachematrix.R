@@ -2,10 +2,10 @@
 ## functions do
 
 # makeCacheMarix : returns a list of functions as..
-## . Set the value of the matrix
-## . get the value of the matrix
-## . set the value of the inverse matrix
-## . get the value of the inverse matrix
+## Set the value of the matrix
+## Get the value of the matrix
+## Set the value of the inverse matrix
+## Get the value of the inverse matrix
 
 makeCacheMatrix<- function(x = matrix()) {
   # the cached inverse matrix will be stored in "inv"
